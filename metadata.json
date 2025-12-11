@@ -1,0 +1,5 @@
+{
+  "name": "Savings Goal Calculator",
+  "description": "A modern, multi-file ReactJS application for a Savings Goal Calculator. The tool instantly calculates how long it will take to reach a specific financial goal, factoring in the initial savings, monthly contribution, and annual interest rate.",
+  "requestFramePermissions": []
+}
