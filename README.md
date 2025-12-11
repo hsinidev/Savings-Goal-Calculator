@@ -2,7 +2,7 @@
 
 > **Plan Your Financial Future with Precision and Ease.**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge&logo=google-chrome)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge&logo=google-chrome)](https://doodax.com/tools/savings-goal-calculator/index.html)
 
 A modern, high-performance, and privacy-focused React application designed to help individuals visualize their path to financial independence. The **Savings Goal Calculator** instantly computes the timeline required to reach specific financial milestones, factoring in the powerful effects of compound interest.
 
